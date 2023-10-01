@@ -38,7 +38,7 @@
     --accent-color: #FF8DCB;
     --accent-color-hover: rgba(50, 49, 45, 0.4);
     --font: 'IBM Plex mono';
-    --bg-image: url("../images/cover-image-light.png");  
+    --bg-image: url("../images/cover-image-light.png");
   }
 
   .header__rec {
